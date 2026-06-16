@@ -2,7 +2,7 @@
   "system_status": "active",
   "version": "5.0.0",
   "force_update": false,
-  "update_url": "https://discord.gg/SENIN_DISCORD_SUNUCUN",
+  "update_url": "https://discord.gg/D5m2YYNFaS",
   "lock_message": {
     "tr": "Metya şu an güncelleniyor. Lütfen birkaç dakika sonra tekrar deneyin.",
     "en": "Metya is currently updating. Please try again in a few minutes."
@@ -15,6 +15,6 @@
     "en": "Your account has been banned for violating Metya policies. Join our Discord for support."
   },
   "social_links": {
-    "discord": "https://discord.gg/SENIN_DISCORD_SUNUCUN"
+    "discord": "https://discord.gg/D5m2YYNFaS"
   }
 }
